@@ -1,4 +1,4 @@
-import poo.CuentaBancaria;
+import poo.ejercicio01.CuentaBancaria;
 
 void main() {
     CuentaBancaria cuenta01 = new CuentaBancaria("Facundo Lara", "CA-001", 5000.00);

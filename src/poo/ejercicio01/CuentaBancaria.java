@@ -1,4 +1,4 @@
-package poo;
+package poo.ejercicio01;
 
 public class CuentaBancaria {
     private String titular;

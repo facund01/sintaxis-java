@@ -1,0 +1,7 @@
+package poo.biblioteca;
+
+public class LibroYaPrestadoException extends Exception {
+    public LibroYaPrestadoException(String message) {
+        super(message);
+    }
+}
